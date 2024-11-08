@@ -9,6 +9,9 @@
     "prettier": "^1.17.1",
     "react-scripts": "^3.0.1"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "big.js": "^5.2.2",
     "github-fork-ribbon-css": "^0.2.1",
